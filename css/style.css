@@ -1,5 +1,5 @@
 body {
-    margin: 0px
+    margin: 330px
 }
 
 nav {
@@ -12,7 +12,7 @@ nav {
 }
 
 nav p {
-    margin: 330;
+    margin: 0;
 }
 
 nav p a {
